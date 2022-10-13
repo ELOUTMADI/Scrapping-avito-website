@@ -1,4 +1,4 @@
-# Scrapping-avito-website
+# About this project
 
 We did the scrapping using the beautiful soup library on the avito.com website. We got a lot of information about its uses.
 
